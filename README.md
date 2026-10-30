@@ -1,4 +1,4 @@
-# Irthsolutions
+# Irth Solutions
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,6 +64,90 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Irthsolutions is a company surfaced as a portfolio company of norwest-venture-partners and added to the API Evangelist network as a stub for enrichment. Sector: unknown. This profile is a lead awaiting the enrichment pipeline.
+Irth Solutions is a SaaS platform provider for critical-infrastructure damage prevention, asset (pipeline) integrity, and stakeholder land management, trusted by energy, utility, and telecom operators across the U.S. and Canada since 1995. Its products include 811 ticket management (UtiliSphere, Exactix, and 811spotter for contractors), one-call center notification, intelligent forms and workflows, inline-inspection and corrosion/crack asset-integrity analytics, and lease, royalty, and right-of-way land management, powered by business intelligence, analytics, and geospatial data. Irth exposes a RESTful Integration API (Irthnet / UtiliSphere) secured with a per-integration API key for creating and modifying users, map layers, and work items in real time.
 
-Backed by: norwest-venture-partners — https://irthsolutions.com
+**Areas:** Company · Damage Prevention · 811 Ticket Management · Utility Locating · Pipeline Integrity · Land Management · Geospatial · Software-as-a-Service · Energy · Utilities · Telecommunications
+
+## Irth Solutions on APIs.io
+
+Everything profiled for Irth Solutions is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/irthsolutions/](https://apis.io/providers/irthsolutions/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Irth Integration API](https://apis.io/apis/irthsolutions/irth-integration-api/) — RESTful Integration API for the Irthnet / UtiliSphere platform. Secured with a per-integration API key, it lets external systems create and modify users,…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Irthsolutions Authentication](https://apis.io/security/irthsolutions/irthsolutions-authentication/)
+- [Irthsolutions Domain Security](https://apis.io/security/irthsolutions/irthsolutions-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://irthsolutions.com)
+- [Documentation](https://www.irth.com/Irthnet/docs/api)
+- [API reference](https://www.irth.com/Irthnet/docs/api)
+- [Support](https://irthsupport.irthsolutions.com/support/home)
+- [Blog](https://irthsolutions.com/blog)
+- [Terms of service](https://irthsolutions.com/terms)
+- [Privacy policy](https://irthsolutions.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 19.8** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 35.7 |
+| Access clarity | 27.6 |
+
+**Agent readiness 2.5** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 16.4** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/irthsolutions/](https://apis.io/providers/irthsolutions/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Irth Solutions: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/irthsolutions/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
